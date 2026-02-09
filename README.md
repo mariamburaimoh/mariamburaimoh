@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+My name is Mariam and I'm a Computer Science undergrad at the University of Lagos, Nigeria. 
+I'm into Software Engineering and Data Science.
+
+**You can reach me here:**
+
+- twitter - @mariamormariam
+- mail - loladeburaimoh@gmail.com
+
 <!--
 **mariamburaimoh/mariamburaimoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
